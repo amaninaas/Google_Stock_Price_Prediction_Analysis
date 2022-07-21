@@ -16,6 +16,6 @@
 
 # Credit
 This dataset is provided by 
-[Ankit Kurmi, Dataset](https://github.com/Ankit152/IMDB-sentiment-analysis)
+[Google](https://www.kaggle.com/datasets/ptheru/googledta)
 
 
